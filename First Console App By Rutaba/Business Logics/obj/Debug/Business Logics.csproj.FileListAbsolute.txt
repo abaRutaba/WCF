@@ -1,0 +1,50 @@
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Business Logics.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Business Logics.pdb
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.ServerRuntime.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Search.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Web.CommandUI.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.BusinessData.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\DocumentFormat.OpenXml.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Security.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.Search.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Taxonomy.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Portal.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Publishing.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.UserProfiles.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.Search.Applications.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.mshtml.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.Search.Connector.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.DocumentManagement.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Policy.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.Directory.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.SecureStoreService.Server.Security.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Search.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.BusinessData.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\DocumentFormat.OpenXml.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Security.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.Search.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Taxonomy.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Portal.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.SharePoint.Publishing.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.UserProfiles.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Server.Search.Connector.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.DocumentManagement.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\bin\Debug\Microsoft.Office.Policy.xml
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\obj\Debug\Business Logics.dll
+D:\MK\SPAlert\First Console App By Rutaba\Business Logics\obj\Debug\Business Logics.pdb

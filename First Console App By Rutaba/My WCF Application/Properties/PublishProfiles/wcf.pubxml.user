@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\wcf demo</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Business Logics.dll">
+      <publishTime>03/19/2019 17:46:07</publishTime>
+    </File>
+    <File Include="bin/Business Logics.pdb">
+      <publishTime>03/19/2019 17:46:07</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>09/01/2012 02:24:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AnalysisServices.AdomdClient.dll">
+      <publishTime>10/14/2005 03:43:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.BusinessData.dll">
+      <publishTime>02/10/2016 08:51:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Extensions.dll">
+      <publishTime>08/30/2012 23:20:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.mshtml.dll">
+      <publishTime>07/07/2015 00:51:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.DocumentManagement.dll">
+      <publishTime>10/03/2017 05:23:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Policy.dll">
+      <publishTime>10/03/2017 05:23:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.SecureStoreService.Server.Security.dll">
+      <publishTime>02/10/2016 08:53:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Server.dll">
+      <publishTime>10/03/2017 05:17:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Server.Search.Applications.dll">
+      <publishTime>10/03/2017 05:23:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Server.Search.Connector.dll">
+      <publishTime>10/03/2017 05:23:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Server.Search.dll">
+      <publishTime>10/03/2017 05:23:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Server.UserProfiles.dll">
+      <publishTime>10/03/2017 05:17:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Directory.dll">
+      <publishTime>02/10/2016 08:53:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.dll">
+      <publishTime>05/17/2017 23:47:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Runtime.dll">
+      <publishTime>05/17/2017 23:47:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Search.dll">
+      <publishTime>05/17/2017 23:47:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.ServerRuntime.dll">
+      <publishTime>10/03/2017 05:22:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Taxonomy.dll">
+      <publishTime>05/17/2017 23:48:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.UserProfiles.dll">
+      <publishTime>05/17/2017 23:48:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.dll">
+      <publishTime>10/03/2017 04:07:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Portal.dll">
+      <publishTime>10/03/2017 05:23:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Publishing.dll">
+      <publishTime>10/03/2017 05:23:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Search.dll">
+      <publishTime>10/03/2017 05:23:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Search.Extended.Administration.Common.dll">
+      <publishTime>02/10/2016 08:53:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Search.Extended.Administration.dll">
+      <publishTime>02/10/2016 08:53:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll">
+      <publishTime>02/10/2016 08:53:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Security.dll">
+      <publishTime>02/10/2016 08:46:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Taxonomy.dll">
+      <publishTime>10/03/2017 05:23:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.CommandUI.dll">
+      <publishTime>02/10/2016 08:52:56</publishTime>
+    </File>
+    <File Include="bin/My WCF Application.dll">
+      <publishTime>03/19/2019 17:46:09</publishTime>
+    </File>
+    <File Include="bin/My WCF Application.pdb">
+      <publishTime>03/19/2019 17:46:09</publishTime>
+    </File>
+    <File Include="CRUD SP.svc">
+      <publishTime>03/18/2019 17:08:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/19/2019 17:46:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

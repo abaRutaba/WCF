@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fef0b279-4172-42a8-8f49-31c06152f46c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.20.2.202:5432/CRUD%20SP.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CRUD SP.xsd" MetadataType="Schema" ID="ecc83cd0-f1a1-400b-a5c0-1af1d7de0658" SourceId="1" SourceUrl="http://10.20.2.202:5432/CRUD SP.svc?xsd=xsd1" />
+    <MetadataFile FileName="CRUD_SP.wsdl" MetadataType="Wsdl" ID="dbfcd348-df51-4da0-a020-fed691fe52a3" SourceId="1" SourceUrl="http://10.20.2.202:5432/CRUD SP.svc?wsdl" />
+    <MetadataFile FileName="CRUD SP2.xsd" MetadataType="Schema" ID="03153cfd-176b-4f42-b964-9d8d29bee73b" SourceId="1" SourceUrl="http://10.20.2.202:5432/CRUD SP.svc?xsd=xsd2" />
+    <MetadataFile FileName="CRUD SP1.xsd" MetadataType="Schema" ID="08fd7868-3c35-450d-9bfb-1cc41fda6706" SourceId="1" SourceUrl="http://10.20.2.202:5432/CRUD SP.svc?xsd=xsd0" />
+    <MetadataFile FileName="CRUD SP.disco" MetadataType="Disco" ID="ac715384-fd1d-4cc3-abf2-1dc6cb260b30" SourceId="1" SourceUrl="http://10.20.2.202:5432/CRUD SP.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
